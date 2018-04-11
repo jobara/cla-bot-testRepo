@@ -1,4 +1,4 @@
 {
-    contributors: [],
+    "contributors": [],
     "message": "We require contributors to sign our Contributor License Agreement. We currently do not have one on file for {{usersWithoutCLA}}. In order for us to review and merge your code, please contact the @jobara to get yourself added."
 }
